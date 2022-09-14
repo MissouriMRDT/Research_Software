@@ -1,7 +1,7 @@
 
 #include <SoftwareSerial.h>
-#define rxPin 6
-#define txPin 7
+#define rxPin 0
+#define txPin 1
 
 byte Splashset = 0;
 
